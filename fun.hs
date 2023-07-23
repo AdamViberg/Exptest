@@ -3,5 +3,5 @@ doubleMe x = x + x
 
 main :: IO ()
 main = do
-    let result = doubleMe 10
+    let result = doubleMe 20
     print result
